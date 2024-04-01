@@ -2,5 +2,4 @@
 "welldone"
 "hard work"
 "complte the given task just now"
-"follow new assignment"
-"push and pull commands clear"
+"hello tecos"
