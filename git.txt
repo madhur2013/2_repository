@@ -3,3 +3,4 @@
 "hard work"
 "complte the given task just now"
 "hello tecos"
+"code wisely"
